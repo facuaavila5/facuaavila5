@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java projects and concurrency**
 
-- 📫 How to reach me **facundo.avila.dev@gmail.com**
+- 📫 How to reach me: **facundo.avila.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
