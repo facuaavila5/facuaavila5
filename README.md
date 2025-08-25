@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Facundo Avila</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=facuaavila5&label=Profile%20views&color=2ec27e&style=plastic" alt="facuaavila5" /> </p>
-
 - 🌱 I’m currently learning **Spring Boot framework and operative systems**
 
 - 🤝 I’m looking for help with **DevOps**
