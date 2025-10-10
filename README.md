@@ -22,6 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=facuaavila5&show_icons=true&locale=en" alt="facuaavila5" /></p>
 
-<img src="https://raw.githubusercontent.com/facuaavila5/facuaavila5/output/snake.svg" alt="Snake animation" />
-
 ###
