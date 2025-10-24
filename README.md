@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Facundo Avila</h1>
+<h1>Hey there 👋, I'm Facundo Avila</h1>
 
-<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&size=26&pause=1000&color=4FF71D&width=435&lines=Computer+Engineering+student" alt="Typing SVG" /></a>
-</p>
 
 ## About me:
 
