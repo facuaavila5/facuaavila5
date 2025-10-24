@@ -6,7 +6,7 @@
 
 ## About me:
 
-➡️ I like low-level programming in C with memory management and microcontrollers
+➡️ I enjoy low-level programming in C, focusing on memory management and microcontrollers
 
 ➡️ I am currently learning Spring Boot framework
 
