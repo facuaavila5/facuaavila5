@@ -6,15 +6,15 @@
 
 ## About me:
 
-➡️ I enjoy low-level programming in C, focusing on memory management and microcontrollers
+➡️ I'm passionate about low-level C programming, especially for microcontrollers and memory management.
 
-➡️ I am currently learning Spring Boot framework
+➡️ I am currently learning Spring Boot framework.
 
-➡️ I aspire to become a DevOps engineer
+➡️ I aspire to become a DevOps engineer.
 
 ➡️ I particularly enjoy tackling complex problems using algorithms and data structures.
 
-➡️ In my free time I play guitar and watch anime
+➡️ In my free time I play guitar and watch anime.
 
 ## Skills:
 <div align="left">
