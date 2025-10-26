@@ -6,11 +6,13 @@
 
 ➡️ I'm passionate about low-level C programming, especially for microcontrollers and memory management.
 
-➡️ I am currently learning Spring Boot framework.
+➡️ I am currently learning Spring Boot.
 
 ➡️ I aspire to become a DevOps Engineer.
 
 ➡️ I particularly enjoy tackling complex problems using algorithms and data structures.
+
+➡️ I love the Linux ecosystem and I run Arch, btw.
 
 ➡️ In my free time I play guitar and watch anime.
 
