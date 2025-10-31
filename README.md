@@ -12,7 +12,7 @@
 
 ➡️ I particularly enjoy tackling complex problems using algorithms and data structures.
 
-➡️ I love the Linux ecosystem and I run Arch, btw.
+➡️ I am a big fan of the Linux ecosystem and I run Arch, btw.
 
 ➡️ In my free time I play guitar and watch anime.
 
