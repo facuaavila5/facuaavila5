@@ -34,15 +34,3 @@
 <a href="https://linkedin.com/in/facundo-avila-b74177330" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo-avila-b74177330" height="30" width="40" /></a>
 <a href="https://instagram.com/facuaavila5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="facuaavila5" height="30" width="40" /></a>
 </p>
-
-##
-
-<h3></h3>
-<h3/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=facuaavila5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=facuaavila5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-###
