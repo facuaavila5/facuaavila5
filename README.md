@@ -18,12 +18,18 @@
 
 ## Current stack:
 <div align="left">
+  <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
+  <img width="1" />
+</div>
 </div>
 
 ## Connect with me:
